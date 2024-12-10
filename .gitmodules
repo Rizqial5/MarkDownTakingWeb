@@ -1,0 +1,6 @@
+[submodule "MarkDownTakingAPI"]
+	path = MarkDownTakingAPI
+	url = https://github.com/Rizqial5/MarkDownTakingAPI.git
+[submodule "MarkDownTakingFrontEnd"]
+	path = MarkDownTakingFrontEnd
+	url = https://github.com/Rizqial5/MarkDownTakingFrontEnd.git
